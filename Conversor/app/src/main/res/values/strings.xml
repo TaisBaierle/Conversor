@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="OK"></string>
+    <string name="no_permission">Permissão negada!!</string>
+</resources>

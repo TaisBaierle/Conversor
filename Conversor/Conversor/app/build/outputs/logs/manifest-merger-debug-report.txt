@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\167c250f6c6d0152b8b3282a310d7e78\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\5218bda8b87825f0530b13b6d7a7e2ef\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\fc9df302dd0325b6be50d09ec725cdd9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\2dcbf6df622f3cc05db5bb1ef884b627\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\12a49207292473a9a38eb3deb5556849\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\6e6e8041da89abeac6eccadad2bcf048\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\82fb6aac289a7fe4ee455431204fe3a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f297c3c44287c0215ffd5f815214a564\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9c4152da673bd863af224bf43d4abb77\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9ebc8e33e3813318b9eaa56e1d55398c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\c8366ef23fc4e70d7d8dd1b3924ec211\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\7043be0055f15def95bee9ca9084c7b8\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\81aa8b20eff7e4c1a5932a9d6ffb89ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f3de02819ec4881cb042e2ad833c3851\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9baae9d1788e36389fca0bba7f774819\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\c799f1d3cb7223c25dd6099a3c88c1f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f958d057dbf50b21c9ae41b9882f5a3a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\cc3e1a18428abac6d1c4eeea1db440b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\a134b5a66cf66392df3d929276e8b100\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\80da31bf812b8fe368b6bdaf9c20d139\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\a625c5b7dd39f4ad8aee36777d252ddc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:7:22-77
+dist:module
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:9:5-40
+	dist:instant
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:9:18-37
+application
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\5218bda8b87825f0530b13b6d7a7e2ef\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\5218bda8b87825f0530b13b6d7a7e2ef\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\7043be0055f15def95bee9ca9084c7b8\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\7043be0055f15def95bee9ca9084c7b8\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f3de02819ec4881cb042e2ad833c3851\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f3de02819ec4881cb042e2ad833c3851\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\7043be0055f15def95bee9ca9084c7b8\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.conversor.MainActivity
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\167c250f6c6d0152b8b3282a310d7e78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\167c250f6c6d0152b8b3282a310d7e78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\5218bda8b87825f0530b13b6d7a7e2ef\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\5218bda8b87825f0530b13b6d7a7e2ef\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\fc9df302dd0325b6be50d09ec725cdd9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\fc9df302dd0325b6be50d09ec725cdd9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\2dcbf6df622f3cc05db5bb1ef884b627\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\2dcbf6df622f3cc05db5bb1ef884b627\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\12a49207292473a9a38eb3deb5556849\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\12a49207292473a9a38eb3deb5556849\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\6e6e8041da89abeac6eccadad2bcf048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\6e6e8041da89abeac6eccadad2bcf048\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\82fb6aac289a7fe4ee455431204fe3a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\82fb6aac289a7fe4ee455431204fe3a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f297c3c44287c0215ffd5f815214a564\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f297c3c44287c0215ffd5f815214a564\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9c4152da673bd863af224bf43d4abb77\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9c4152da673bd863af224bf43d4abb77\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9ebc8e33e3813318b9eaa56e1d55398c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9ebc8e33e3813318b9eaa56e1d55398c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\c8366ef23fc4e70d7d8dd1b3924ec211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\c8366ef23fc4e70d7d8dd1b3924ec211\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\7043be0055f15def95bee9ca9084c7b8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\7043be0055f15def95bee9ca9084c7b8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\81aa8b20eff7e4c1a5932a9d6ffb89ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\81aa8b20eff7e4c1a5932a9d6ffb89ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f3de02819ec4881cb042e2ad833c3851\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f3de02819ec4881cb042e2ad833c3851\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9baae9d1788e36389fca0bba7f774819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\9baae9d1788e36389fca0bba7f774819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\c799f1d3cb7223c25dd6099a3c88c1f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\c799f1d3cb7223c25dd6099a3c88c1f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f958d057dbf50b21c9ae41b9882f5a3a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\f958d057dbf50b21c9ae41b9882f5a3a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\cc3e1a18428abac6d1c4eeea1db440b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\cc3e1a18428abac6d1c4eeea1db440b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\a134b5a66cf66392df3d929276e8b100\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\a134b5a66cf66392df3d929276e8b100\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\80da31bf812b8fe368b6bdaf9c20d139\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\80da31bf812b8fe368b6bdaf9c20d139\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\a625c5b7dd39f4ad8aee36777d252ddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Tais Baierle\.gradle\caches\transforms-2\files-2.1\a625c5b7dd39f4ad8aee36777d252ddc\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tais Baierle\AndroidStudioProjects\Conversor\app\src\main\AndroidManifest.xml
